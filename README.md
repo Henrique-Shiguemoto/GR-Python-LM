@@ -34,3 +34,27 @@ Just type <code>python script_name.py</code> to run the source code.
 - Numpy
 - Sklearn
 - Matplotlib
+
+# Results
+
+Mean Accuracies:
+
+- kNN: 81.45%
+- SVM: 84.41%
+- RF:  71.41%
+
+# Confusion Matrices
+
+kNN:
+
+![kNN](/imgs/KNN_CM.png)
+
+SVM:
+
+![SVM](/imgs/SVM_CM.png)
+
+Random Forest:
+
+![RF](/imgs/RF_CM.png)
+
+More results can be found in the <code>imgs</code>> folder.
