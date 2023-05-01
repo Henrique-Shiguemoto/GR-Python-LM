@@ -57,4 +57,4 @@ Random Forest:
 
 ![RF](/imgs/RF_CM.png)
 
-More results can be found in the <code>imgs</code>> folder.
+More results can be found in the <code>imgs</code> folder.
