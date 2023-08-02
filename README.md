@@ -1,5 +1,7 @@
 # Vocabulary Gesture Recognition with the Leap Motion Sensor
 
+![Leap Motion](/imgs/Leap Motion.png)
+
 The gesture vocabulary used is available in [this link](https://lttm.dei.unipd.it/downloads/gesture/).
 
 The dataset (<code>db</code> folder) was collected with the Leap Motion Sensor and the LeapC API. The code used for the data collection is in the repo <code>LeapC-GR-Template</code>, available in [this link](https://github.com/Henrique-Shiguemoto/LeapC-GR-Template)
