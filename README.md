@@ -1,6 +1,6 @@
 # Vocabulary Gesture Recognition with the Leap Motion Sensor
 
-![Leap Motion](/imgs/Leap Motion.png)
+![Leap](/imgs/Leap Motion.png)
 
 The gesture vocabulary used is available in [this link](https://lttm.dei.unipd.it/downloads/gesture/).
 
